@@ -1,4 +1,4 @@
-### Olá! sou Caio Kleinlein 👋
+## Olá! sou Caio Kleinlein, amante de tecnologia e desenvolvedor júnior 👋
 
 <!--
 **cklg1994v2/cklg1994v2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
