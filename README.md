@@ -38,5 +38,6 @@ Here are some ideas to get you started:
   </div>
   
   ## Certificações
-  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          
   
