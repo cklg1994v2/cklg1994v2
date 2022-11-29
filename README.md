@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📖 Estudando Java, aprimorando o PL-SQL.
 - 📧 E-mail: cklg94@gmail.com
 - ☎️ Celular: (11) 982154265
+- https://cursos.alura.com.br/certificate/65d42690-13f4-4322-981b-59343e1ebb9e
 
 
 <div align="center">
